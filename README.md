@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**ULhey/ULhey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hey, tudo bem? Me chamo Wellen<img src="https://media2.giphy.com/media/NS0bXSSo8nIFbDDSb5/200w.webp?cid=ecf05e479w1brqj3pat8fp53c6vjh8erp5w8mrgneswc095c&rid=200w.webp&ct=s" width="70">
+<div align="center">
+  <h1>Status<h1>
+  <a href="https://github.com/ULhey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ULhey&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ULhey&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ULhey&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&line_height=0"/>
+</div>
+ 
+<div align="center">
+  <a href = "mailto:wellen.opz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wellen-silva-238003244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br>
+  <img alt="img" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/ZR9nqLI2ZhUU8/giphy.gif?cid=790b76113c82ac81f453f9576b3bd53c118082fe9acc2de2&rid=giphy.gif&ct=s">
+</div>
