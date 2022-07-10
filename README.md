@@ -4,7 +4,6 @@
   <a href="https://github.com/ULhey">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ULhey&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ULhey&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ULhey&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight&line_height=0"/>
 </div>
  
 <div align="center">
